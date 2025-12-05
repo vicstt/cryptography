@@ -1,0 +1,11 @@
+/home/victoria/laba/cryptography/cryptDES/Lib/bin/Debug/net8.0/Lib.deps.json
+/home/victoria/laba/cryptography/cryptDES/Lib/bin/Debug/net8.0/Lib.dll
+/home/victoria/laba/cryptography/cryptDES/Lib/bin/Debug/net8.0/Lib.pdb
+/home/victoria/laba/cryptography/cryptDES/Lib/obj/Debug/net8.0/Lib.GeneratedMSBuildEditorConfig.editorconfig
+/home/victoria/laba/cryptography/cryptDES/Lib/obj/Debug/net8.0/Lib.AssemblyInfoInputs.cache
+/home/victoria/laba/cryptography/cryptDES/Lib/obj/Debug/net8.0/Lib.AssemblyInfo.cs
+/home/victoria/laba/cryptography/cryptDES/Lib/obj/Debug/net8.0/Lib.csproj.CoreCompileInputs.cache
+/home/victoria/laba/cryptography/cryptDES/Lib/obj/Debug/net8.0/Lib.dll
+/home/victoria/laba/cryptography/cryptDES/Lib/obj/Debug/net8.0/refint/Lib.dll
+/home/victoria/laba/cryptography/cryptDES/Lib/obj/Debug/net8.0/Lib.pdb
+/home/victoria/laba/cryptography/cryptDES/Lib/obj/Debug/net8.0/ref/Lib.dll
